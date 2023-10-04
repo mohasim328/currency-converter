@@ -118,5 +118,6 @@ text-align: center;
    
     .container{
         width: 85%;
+        padding: 30px 15px;
     }
 }

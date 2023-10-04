@@ -118,7 +118,7 @@ text-align: center;
 @media only screen and ( max-width:500px ) {
    
     .container{
-        width: 85%;
+        width: 95%;
         padding: 30px 15px;
     }
     .container form{
